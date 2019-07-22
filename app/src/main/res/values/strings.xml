@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HopUpAnimation</string>
+    <string name="text_dialog_title">Pricing Details</string>
+    <string name="text_product_description">This is a description of the product</string>
+    <string name="text_product_one_qty">QTY 10 \nPrice: \u20B9120</string>
+    <string name="text_product_two_qty">QTY 100 \nPrice: \u20B9200</string>
+    <string name="text_product_one_name">Product Name</string>
+    <string name="text_product_two_name">Second Product Name</string>
+    <string name="text_no_of_items_added"><b>\u20B9 2120</b> \n View Details</string>
+    <string name="text_image_one_desc">Image 1</string>
+    <string name="text_image_two_desc">Image 2</string>
+    <string name="text_total_mrp">Total MRP</string>
+    <string name="text_mrp"><b>\u20B9 3100</b></string>
+    <string name="text_discount">Discount</string>
+    <string name="text_discount_price"><strike><b>\u20B9 880</b></strike></string>
+    <string name="text_delivery_charges">Delivery Charges</string>
+    <string name="text_deilivery_price"><b>\u20B9 100</b></string>
+    <string name="text_total">Total</string>
+    <string name="text_total_price"><b>\u20B9 2120</b></string>
+    <string name="text_done">Done</string>
+</resources>
