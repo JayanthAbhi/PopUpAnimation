@@ -6,4 +6,7 @@ This application is an example of popup animation.
   on the view or you can do some animation for the view. So, I've achieved this animation in my sample application.
   
   
+  ![](https://github.com/JayanthAbhi/PopUpAnimation/blob/master/HopUpGif.gif)
   
+  
+  Thanks to efe budak.
