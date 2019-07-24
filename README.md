@@ -9,4 +9,4 @@ This application is an example of popup animation.
   ![](https://github.com/JayanthAbhi/PopUpAnimation/blob/master/HopUpGif.gif)
   
   
-  Thanks to efe budak.
+  Thanks to <b>efe budak.</b>
